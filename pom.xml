@@ -97,7 +97,7 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>jfrog</id>
+	      <id>demorepo</id>
 	      <name>demorepo</name>
 	      <url>http://18.220.18.137:8082/artifactory/demorepo/</url>
 	    </repository>
