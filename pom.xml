@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>jfrog</id>
 	      <name>demorepo</name>
-	      <url>http://13.59.131.239:8082/ui/admin/repositories/remote/demorepo</url>
+	      <url>http://18.220.18.137:8082/artifactory/demorepo/</url>
 	    </repository>
 	    
 <!-- 	    <snapshotRepository>
