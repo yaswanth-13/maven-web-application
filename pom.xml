@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>demorepo</id>
 	      <name>demorepo</name>
-	      <url>http://18.220.18.137:8082/artifactory/demorepo/</url>
+	      <url>http://ec2-18-220-18-137.us-east-2.compute.amazonaws.com:8081/artifactory/demorepo/</url>
 	    </repository>
 	    
 <!-- 	    <snapshotRepository>
