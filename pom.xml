@@ -97,16 +97,16 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.88.42:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <id>jfrog</id>
+	      <name>hello this is my task</name>
+	      <url>http://18.217.23.61:8082/ui/repos/tree/General/samplereo/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+<!-- 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.110.88.42:9980/mithuntechnologies/repository/facebook-snapshot/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> -->
 	    
 	</distributionManagement>
 	
