@@ -98,8 +98,8 @@
 	
 	    <repository>
 	      <id>jfrog</id>
-	      <name>hello this is my task</name>
-	      <url>http://18.217.23.61:8082/ui/repos/tree/General/samplereo/</url>
+	      <name>demorepo</name>
+	      <url>http://13.59.131.239:8082/ui/admin/repositories/remote/demorepo</url>
 	    </repository>
 	    
 <!-- 	    <snapshotRepository>
